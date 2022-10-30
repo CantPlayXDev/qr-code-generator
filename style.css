@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head{
+  background: rgb(151, 60, 60);
+  color: White;
+  text-align:center;
+  padding-top: 5px;
+  height: 40px;
+}
+
+/* .content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: ; */
+
+
+/* .content > div {
+  padding: 20px;
+}
+
+#loading{
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  background: blue;
+} */
+ 
